@@ -1,0 +1,18 @@
+What I did today
+
+1 hour - Introduction to AWS and cloud computing
+1 hour - Learned about AWS regions and availability zones
+1 hour - Learned about EC2 and virtual machines
+1 hour - Learned about public and private IP addresses
+1 hour - Practiced connecting to an EC2 instance using SSH
+1 hour - Learned about security groups and inbound/outbound rules
+1 hour - Practiced basic Linux commands on an EC2 instance
+30 mins - Revised AWS and EC2 concepts
+
+Tomorrow's Task
+
+Revise AWS basics
+Practice EC2 and SSH commands
+Learn about EBS and storage
+Revise Linux and Git commands
+Practice complete Git workflow

@@ -1,0 +1,82 @@
+AWS Basics Practice
+
+AWS
+- AWS stands for Amazon Web Services.
+- It provides cloud computing services such as compute, storage,
+  networking and databases.
+
+Important AWS concepts learned:
+
+1. Region
+   A geographical location containing AWS infrastructure.
+
+2. Availability Zone
+   An isolated location inside an AWS Region used for reliability
+   and high availability.
+
+3. EC2
+   Amazon Elastic Compute Cloud provides virtual servers in the cloud.
+
+4. Instance
+   A virtual server running inside EC2.
+
+5. Public IP
+   An IP address that can be used to communicate with an instance
+   over the internet.
+
+6. Private IP
+   An IP address used for communication inside a private network.
+
+7. Security Group
+   Acts as a virtual firewall for an EC2 instance and controls
+   inbound and outbound traffic.
+
+8. SSH
+   Secure Shell is used to securely connect to a remote Linux server.
+
+Basic SSH format:
+
+ssh -i <key-file> <username>@<public-ip>
+
+Useful commands after connecting to EC2:
+
+pwd
+ls
+cd
+mkdir
+touch
+cat
+sudo
+whoami
+
+Basic EC2 workflow:
+
+AWS Console
+    ↓
+Create EC2 Instance
+    ↓
+Select operating system / AMI
+    ↓
+Choose instance type
+    ↓
+Configure key pair
+    ↓
+Configure security group
+    ↓
+Launch instance
+    ↓
+Connect using SSH
+
+Networking concepts revised:
+- IP address
+- Public IP
+- Private IP
+- Port
+- Inbound traffic
+- Outbound traffic
+- Security groups
+
+Common ports discussed:
+22  - SSH
+80  - HTTP
+443 - HTTPS
