@@ -1,0 +1,54 @@
+Linux Practice
+
+1. pwd
+   Used to check the current working directory.
+
+2. ls
+   Used to list files and directories.
+
+3. cd
+   Used to change the current directory.
+
+4. mkdir
+   Used to create a new directory.
+
+5. touch
+   Used to create a new empty file.
+
+6. cat
+   Used to display the contents of a file.
+
+7. cp
+   Used to copy files and directories.
+
+8. mv
+   Used to move or rename files.
+
+9. rm
+   Used to remove files.
+
+10. rmdir
+    Used to remove empty directories.
+
+11. chmod
+    Used to change file permissions.
+
+12. chown
+    Used to change file ownership.
+
+13. whoami
+    Used to check the current logged-in user.
+
+14. pwd
+    Used to display the current path.
+
+15. clear
+    Used to clear the terminal.
+
+Important concepts learned:
+- Linux file system
+- Absolute and relative paths
+- Files and directories
+- Linux permissions
+- Read, write and execute permissions
+- Basic terminal usage

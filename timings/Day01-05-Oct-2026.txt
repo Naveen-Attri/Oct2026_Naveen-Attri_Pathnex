@@ -1,0 +1,17 @@
+What I did today
+
+1 hour - Learned Linux basics and Linux file system
+1 hour - Practiced basic Linux commands in terminal
+1 hour - Practiced file and directory operations
+1 hour - Learned Linux permissions and ownership
+1 hour - Practiced commands like ls, cd, pwd, mkdir, touch, cp, mv and rm
+1 hour - Practiced viewing and editing files using cat, less and vim
+30 mins - Revised the commands learned today
+
+Tomorrow's Task
+
+Revise Linux commands
+Practice file permissions and ownership
+Learn/process and system related commands
+Start Git basics
+Practice Git commands
