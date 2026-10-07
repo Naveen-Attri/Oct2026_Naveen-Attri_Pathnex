@@ -1,0 +1,18 @@
+What I did today
+
+1 hour - Learned Git and version control basics
+1 hour - Learned the difference between Git and GitHub
+1 hour - Practiced creating a local Git repository
+1 hour - Practiced git status, git add and git commit
+1 hour - Learned Git branches and practiced creating branches
+1 hour - Learned Git remote repositories and GitHub
+1 hour - Practiced pushing local changes to GitHub
+30 mins - Revised the Git commands learned today
+
+Tomorrow's Task
+
+Revise Git commands
+Practice branch creation and merging
+Learn more about GitHub workflow
+Learn AWS basics
+Practice connecting to an AWS EC2 instance

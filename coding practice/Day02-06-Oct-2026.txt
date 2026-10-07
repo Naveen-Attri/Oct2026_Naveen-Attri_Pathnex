@@ -1,0 +1,76 @@
+Git Practice
+
+1. git init
+   Initializes a new Git repository.
+
+2. git status
+   Shows the current state of the working directory.
+
+3. git add .
+   Adds all changed files to the staging area.
+
+4. git add <filename>
+   Adds a specific file to the staging area.
+
+5. git commit -m "message"
+   Creates a commit with the specified message.
+
+6. git log
+   Shows the commit history.
+
+7. git branch
+   Shows the available branches.
+
+8. git branch <branch-name>
+   Creates a new branch.
+
+9. git switch <branch-name>
+   Switches to another branch.
+
+10. git checkout <branch-name>
+    Can be used to switch branches.
+
+11. git merge <branch-name>
+    Merges another branch into the current branch.
+
+12. git remote -v
+    Shows the configured remote repositories.
+
+13. git remote add origin <url>
+    Adds a remote repository.
+
+14. git push
+    Uploads committed changes to the remote repository.
+
+15. git pull
+    Downloads and integrates changes from the remote repository.
+
+16. git clone <url>
+    Creates a local copy of a remote repository.
+
+Git workflow learned:
+
+Working Directory
+       ↓
+git add
+       ↓
+Staging Area
+       ↓
+git commit
+       ↓
+Local Repository
+       ↓
+git push
+       ↓
+GitHub Remote Repository
+
+Important concepts:
+- Version control
+- Repository
+- Working directory
+- Staging area
+- Commit
+- Branch
+- Merge
+- Remote repository
+- GitHub
